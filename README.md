@@ -1,4 +1,3 @@
-parked_domain_gallery
-=====================
+Created by Codrops
 
-for Art Hack Day Berlin 2014
+Please read more about our license here: http://tympanus.net/codrops/licensing/ 

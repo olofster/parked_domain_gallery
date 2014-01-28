@@ -1,0 +1,10 @@
+json= 
+{"work_1" :
+{"name_of_work": "", 
+"artist_name": "", 
+"image_url": ""} , 
+"work_2" :
+{"name_of_work": "", 
+"artist_name": "", 
+"image_url": ""} 
+}
