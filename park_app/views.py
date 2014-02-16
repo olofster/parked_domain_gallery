@@ -76,10 +76,10 @@ def gallery(request):
 		'workURL': 		'recyclism.jpg'
 	},
 	{
-		'title': 		'No shake',
+		'title': 		'Wifi-spotting',
 		'artist': 		'Justin Blinder',
 		'artistURL': 	'http://www.justinblinder.com/',
-		'workURL': 		'no_shake.gif'
+		'workURL': 		'wifi_spotting.jpg'
 	},
 	{
 		'title': 		'Parked Domain Gallery',
